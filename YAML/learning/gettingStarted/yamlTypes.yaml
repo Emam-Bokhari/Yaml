@@ -1,0 +1,41 @@
+# simple key-value pair
+name: "Moshfiqur Rahman"
+age: 24
+city: "Dhaka"
+
+# array/list
+hobbies: 
+  - Reading
+  - Coding
+  - Traveling
+
+# nested object
+person: 
+  name: Moshfiqur Rahman
+  age: 24
+  address:
+    city: Dhaka
+    postalCode: 1207
+
+# array/list of object
+employes: 
+  - name: Abdur Rahman
+    position: Manager
+    age: 35
+  - name: "Abdullah"
+    position: "Engineer"
+    age: 28
+
+# example: 1
+company:
+  - name: "Dreams Softwer Company Ltd."
+    establishedAt: 2025
+    staff: 13
+
+# example: 2
+bangladesh:
+  - brahmanbaria:
+    - nameofVillage: "Mojlishpur"
+      nameOfThana: "Qasba"
+
+  
