@@ -1,0 +1,118 @@
+company:
+  name: Global Innovations Ltd.
+  location: 
+    headquarters:
+      address: 456 Global Parkway
+      city: "InnovateCity"
+      postalCode: "99888"
+      country: "GlobalLand"
+  offices:
+   - city: TechCity
+     employees:
+        - id: 101
+          name: Alice Jhonson
+          role: Product Manager
+          contact: 
+            email: alice@gmail.com
+            phone: "+4654564644"
+            social: 
+              linkedin: "https://linkeding.com"
+              twitter: "https://twitter.com"
+        - projects:
+          projectId: P005
+          title: AI powered analytics
+          budget: 10000000
+          team:
+            - name: Emily Clark
+              role: Data Scientist
+              skills:
+                - Python
+                - TensorFlow
+                - Pandas
+            - name: James Martin
+              role: ML Engineer
+              skills: 
+                - TensorFlow
+                - Keras
+                - Scikit-learn
+        - milestones:
+            - phase: Research
+              completed: true
+              deadline: "2024-05-30"
+              tasks:
+                - Literature review
+                - Data collection
+            - phase: Development
+              completed: false
+              deadline: "2024-08-15"
+              tasks: 
+                - Model Training
+                - Model Optimization
+   - city: InnovativeCity
+     employees:
+       - id: 102
+         name: Bob Smith
+         role: Software Engineer 
+         contact:
+           email: bob@gmail.com
+           phone: "+4556444454"
+           social: 
+             linkedin: "https://linkedin.com"
+             twitter: "https://twitter.com"
+       - projects:
+           - projectId: P006
+             title: Cloud Migration
+             budget: 2000000000
+             team: 
+               - name: Susan Lee 
+                 role: Cloud Architect
+                 skills: 
+                   - AWS
+                   - Azure
+                   - Docker
+               - name: Abul Miya 
+                 role: DevOps Engineer
+                 skills:
+                   - Kuvernetes
+                   - CI/CD
+                   - Terraform
+           - milestones:
+              - phase: Planning
+                completed: true 
+                deadline: "2024-06-10"
+                tasks: 
+                  - Cloud environment setup
+                  - System architecture design
+              - phase: Deployment
+                completed: false 
+                deadline: "2024-10-01"
+                tasks: 
+                  - Containerization
+                  - Monitoring setup 
+
+financials:
+  revenue: 500000
+  expenses: 300000
+  profit: 20000
+  forecast: 
+    - year: 2024
+      expected_revenue: 5550000
+      expected_expenses: 350000
+      expected_profit: 200000
+    - year: 2025
+      expected_revenue: 465454
+      expected_expenses: 445500
+      expected_profit: 22200
+companyHistory:
+  - year: 2010
+    event: Company founded
+  - year: 2012
+    event: Launched first product 
+  - year: 2015
+    event: Expanded internationally
+  - year: 2018
+    event: Acquired a new technology parten
+            
+        
+          
+     
