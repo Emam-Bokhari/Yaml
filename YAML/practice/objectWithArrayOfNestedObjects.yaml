@@ -1,0 +1,8 @@
+department: IT
+employs:
+  - name: Anna
+    role: Software Engineer
+    years: 5
+  - name: Paul
+    role: QA Engineer
+    years: 3
