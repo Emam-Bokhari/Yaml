@@ -1,0 +1,9 @@
+- name: Sophia
+  address:
+    city: London
+    postalCode: W1A 1AA
+  contact:
+    - type: email
+      value: sophia@example.com
+    - type: phone
+      value: "+44123549687"
