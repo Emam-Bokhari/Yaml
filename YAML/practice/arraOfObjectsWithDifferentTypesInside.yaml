@@ -1,0 +1,6 @@
+- name: Abdullah
+  age: 27
+  isEmployee: true
+- name: Eva
+  age: 34
+  isEmployee: false
