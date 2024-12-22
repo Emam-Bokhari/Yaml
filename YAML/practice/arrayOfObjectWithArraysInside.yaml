@@ -1,0 +1,10 @@
+- name: Emily
+  skills: 
+    - Javascript
+    - React
+    - Node.js
+- name: Chris
+  skills: 
+    - Python
+    - Django
+    - Flask
