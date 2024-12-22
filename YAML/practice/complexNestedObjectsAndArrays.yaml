@@ -1,0 +1,15 @@
+company: 
+  name: Innovative Solutions
+  employs:
+    - name: Abul
+      position: CEO
+      department: Management
+      contact:
+        email: abul@gmail.com
+        phone: "+16546456"
+    - name: Lily
+      position: Developer
+      department: Engineering
+      contact:
+        email: lily@gmail.com 
+        phone: "+46546464"
