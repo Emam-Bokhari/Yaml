@@ -1,0 +1,10 @@
+- name: Ella
+  address:
+    street: "123 Elm St"
+    city: Los Angels
+    zipcode: "90001"
+- name: Jack
+  address:
+    street: "456 Oak St"
+    city: Chicago
+    zipcode: "60601"
