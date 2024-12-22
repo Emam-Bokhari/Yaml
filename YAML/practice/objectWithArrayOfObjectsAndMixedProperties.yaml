@@ -1,0 +1,9 @@
+company: TechCorp
+employees:
+  - name: Alice
+    age: 28
+    position: Developer
+  - name: Bob
+    age: 32
+    position: Manager
+location: New York
