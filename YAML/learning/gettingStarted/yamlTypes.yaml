@@ -54,3 +54,9 @@ multiline_string: |
 folded_string: >
   This is Moshfiqur Rahman 
   Emam Bokhari. 
+
+
+---
+document: this is doc 1
+--- 
+document: this is doc 2
