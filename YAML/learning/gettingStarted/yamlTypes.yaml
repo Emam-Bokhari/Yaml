@@ -33,12 +33,13 @@ company:
     staff: 13
 
 # example: 2
-bangladesh:
+bangladesh: &bangladesh
   - brahmanbaria:
     - nameofVillage: "Mojlishpur"
       nameOfThana: "Qasba"
 
 
+some_thing: &var_name This is Moshfiqur Rahman 
+other_thing: *var_name 
 
-
-  
+our_country: *bangladesh
