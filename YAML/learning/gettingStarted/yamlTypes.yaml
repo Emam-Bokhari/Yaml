@@ -38,8 +38,19 @@ bangladesh: &bangladesh
     - nameofVillage: "Mojlishpur"
       nameOfThana: "Qasba"
 
-
+# reference
 some_thing: &var_name This is Moshfiqur Rahman 
 other_thing: *var_name 
 
 our_country: *bangladesh
+
+# this is single line commnet
+
+# multiline string
+multiline_string: |
+  This is Moshfiqur Rahman 
+  Emam Bokhari.
+
+folded_string: >
+  This is Moshfiqur Rahman 
+  Emam Bokhari. 
